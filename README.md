@@ -1,6 +1,3 @@
-
-
-
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1>
 
 ### My name is Ismael Alves. I currently learning Front-End.
@@ -29,4 +26,3 @@
 ### Social 🤝
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/vonmalves/) <a href="mailto:ismael.only@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/vonmalves@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a> [<img alt="Twitter" src="https://img.shields.io/badge/vonmalves-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/vonmalves) [<img alt="Instagram" src="https://img.shields.io/badge/vonmalves-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/vonmalves/) [<img alt="Twitch" src="https://img.shields.io/badge/vonmalves-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"/>](https://www.twitch.tv/vonmalves)
-
