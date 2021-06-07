@@ -2,7 +2,7 @@
 
 ### My name is Ismael Alves. I currently learning Front-End.
 
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=vonmalves&repo=vonmalves&countColorcountColor)
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ismalvs&repo=ismalvs&countColorcountColor)
 
 ### Languages, Frameworks and Libraries, Tools & Design  🛠  
 
@@ -18,8 +18,8 @@
 
 <p align="left">
 <a href="https://github.com/vonmalves">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vonmalves&layout=compact&langs_count=8"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=vonmalves&hide_border=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismalvs&layout=compact&langs_count=8"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=ismalvs&hide_border=true"/>
 </a>
 </p>
 
