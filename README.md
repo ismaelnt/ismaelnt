@@ -12,8 +12,6 @@
 
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F.svg?style=for-the-badge&logo=MySQL&logoColor=white"/> <img alt="Firebase" src="https://img.shields.io/badge/Firebase-ffca28.svg?style=for-the-badge&logo=Firebase&logoColor=black"/>
 
-<img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/> <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/> <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
-
 ### Analytics ⚙️
 
 <p align="left">
