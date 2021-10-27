@@ -1,18 +1,15 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1>
-
-
-### Languages, Frameworks and Libraries  🛠  
-
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img alt="sass" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/> <img alt="react" src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=React&logoColor=61DAFB"/> <img alt="vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
-
-
-### Analytics ⚙️
+<div align="center" width="80%">
+  <a href="https://git.io/typing-svg">
+    <img width="100%" src="https://readme-typing-svg.herokuapp.com?color=%2367E480&size=15&center=true&vCenter=true&lines=Hello+World;Welcome+to+my+profile+%3A%29" alt="Welcome to my profile"/>
+  </a>
+</div>
 
 <p align="left">
 <a href="https://github.com/vonmalves">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vonmalves&layout=compact&langs_count=8&theme=omni"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vonmalves&layout=compact&langs_count=8&theme=omni"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200em"  src="https://github-readme-streak-stats.herokuapp.com?user=vonmalves&theme=omni" />
 </a>
 </p>
 
