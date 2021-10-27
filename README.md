@@ -6,10 +6,10 @@
 
 <p align="left">
 <a href="https://github.com/vonmalves">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vonmalves&layout=compact&langs_count=8&theme=omni"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vonmalves&layout=compact&langs_count=8&theme=omni"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200em"  src="https://github-readme-streak-stats.herokuapp.com?user=vonmalves&theme=omni" />
+    <img height="190em"  src="https://github-readme-streak-stats.herokuapp.com?user=vonmalves&theme=omni" />
 </a>
 </p>
 
