@@ -15,4 +15,4 @@
 
 ### Social 🤝
 
-[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/vonmalves/) [<img alt="Twitch" src="https://img.shields.io/badge/vonmalves-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"/>](https://www.twitch.tv/vonmalves)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/vonmalves/) [<img alt="Twitch" src="https://img.shields.io/badge/malves_dev-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"/>](https://www.twitch.tv/malves_dev)
