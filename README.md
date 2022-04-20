@@ -5,14 +5,14 @@
 </div>
 
 <p align="left">
-<a href="https://github.com/vonmalves">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vonmalves&layout=compact&langs_count=8&theme=dracula"/>
+<a href="https://github.com/ismaelnt">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelnt&layout=compact&langs_count=8&theme=dracula"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com?user=vonmalves&theme=dracula" />
+    <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com?user=ismaelnt&theme=dracula" />
 </a>
 </p>
 
 ### Social 🤝
 
-[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/vonmalves/)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ismaelnt/)
