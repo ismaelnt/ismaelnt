@@ -1,18 +1,6 @@
-<div align="center" width="80%">
-  <a href="https://git.io/typing-svg">
-    <img width="100%" src="https://readme-typing-svg.herokuapp.com?color=%2367E480&size=15&center=true&vCenter=true&lines=Hello+World;Welcome+to+my+profile+%3A%29" alt="Welcome to my profile"/>
-  </a>
-</div>
+# Ismael Alves 
 
-<p align="left">
-<a href="https://github.com/ismaelnt">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelnt&layout=compact&langs_count=8&theme=dracula"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com?user=ismaelnt&theme=dracula" />
-</a>
-</p>
+Full stack developer at @Ímpar.
 
-### Social 🤝
-
-[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ismaelnt/)
+[![Linkedin Badge](https://img.shields.io/badge/-Ismael%20Alves-202125?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ismaelnt/)](https://www.linkedin.com/in/ismaelnt/) 
+[![Gmail Badge](https://img.shields.io/badge/-ismaelnt97@gmail.com-202125?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
